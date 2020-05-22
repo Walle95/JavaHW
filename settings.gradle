@@ -10,5 +10,6 @@
 rootProject.name = 'JavaHW'
 include 'L01-gradle'
 include 'L03-generics'
+include 'L06-reflection'
 
 
